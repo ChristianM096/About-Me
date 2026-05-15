@@ -8,4 +8,4 @@ My first repository
 * Javascript
 * Basic technology troubleshooting
 ### Me
-[Picture of me](4O2A9880.JPG)
+[Picture](4O2A9880.JPG)
