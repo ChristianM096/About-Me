@@ -8,4 +8,4 @@ My first repository
 * Javascript
 * Basic technology troubleshooting
 ### Cat
-[Cute Cat](https://media.newyorker.com/photos/5dfab39dde5fcf00086aec77/4:3/w_2271,h_1703,c_limit/Lane-Cats.jpg)
+[Cute Cat](https://images.squarespace-cdn.com/content/v1/607f89e638219e13eee71b1e/1684821560422-SD5V37BAG28BURTLIXUQ/michael-sum-LEpfefQf4rU-unsplash.jpg?format=2500w)
