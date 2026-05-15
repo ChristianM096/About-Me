@@ -8,5 +8,5 @@ My first repository
 * Communication skills
 * Javascript
 * Basic technology troubleshooting
-### Me
 
+Contact me at [Gmail](morgan32@calcharter.org)
