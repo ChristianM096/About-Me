@@ -7,5 +7,5 @@ My first repository
 * Communication skills
 * Javascript
 * Basic technology troubleshooting
-### Cat
+### Me
 [Picture of me](4O2A9880.JPG)
