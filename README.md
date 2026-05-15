@@ -7,3 +7,5 @@ My first repository
 * Communication skills
 * Javascript
 * Basic technology troubleshooting
+### Cat
+[Cute Cat]([URL](https://media.newyorker.com/photos/5dfab39dde5fcf00086aec77/4:3/w_2271,h_1703,c_limit/Lane-Cats.jpg))
